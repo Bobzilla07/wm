@@ -1,0 +1,20 @@
+<! css set up>
+<style>
+/*gradient bg #000000 #00ff00*/
+body {
+  height: 3000px;
+  background: linear-gradient(55deg, #000000 0%, #00ff00 51%, #000000 85%) ;
+}
+h10 {
+  color: #000000;
+  text-shadow: 1px 1px 2px #ff00bb, 0.5px 0.5px 25px #000000, 0 0 5px #ff00bb;
+font-size: 20px;
+}
+h9 {
+  color: #000000;
+  text-shadow: 1px 1px 2px #00ff00, 0.5px 0.5px 25px #000000, 0 0 5px #ff00bb;
+font-size: 10px;
+}
+
+</style><h10><center>Welcome to Land Of Freedom</center></h10>
+<h9>Now there are some rules and here they are</h9>
